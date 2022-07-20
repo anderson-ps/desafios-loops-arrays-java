@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 2 de arrays">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 3 de arrays">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex3_NumerosAleatorios">
+  <component name="RunManager" selected="Application.Ex4_ArrayMultidimensional">
     <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.arrays.Ex1_OrdemInversa" />
       <module name="Desafios_de_loops_e_Arrays" />
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.loops.Ex5_Tabuada" />
+    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.arrays.Ex4_ArrayMultidimensional" />
       <module name="Desafios_de_loops_e_Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.loops.*" />
+          <option name="PATTERN" value="br.com.dio.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
         <item itemvalue="Application.Ex3_NumerosAleatorios" />
         <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
-        <item itemvalue="Application.Ex5_Tabuada" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658342748614</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Solução do desafio 3 de arrays">
+      <created>1658343238925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658343238925</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +213,7 @@
     <MESSAGE value="Solução do desafio 6 de loop" />
     <MESSAGE value="Solução do desafio 1 de arrays" />
     <MESSAGE value="Solução do desafio 2 de arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 2 de arrays" />
+    <MESSAGE value="Solução do desafio 3 de arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 3 de arrays" />
   </component>
 </project>
