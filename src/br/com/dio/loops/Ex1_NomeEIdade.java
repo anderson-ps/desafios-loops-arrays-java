@@ -2,7 +2,7 @@ package br.com.dio.loops;
 
 import java.util.Scanner;
 
-public class Ex1_nomeEIdade {
+public class Ex1_NomeEIdade {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
