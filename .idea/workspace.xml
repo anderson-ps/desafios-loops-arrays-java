@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 6 de loop">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 1 de arrays">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/arrays/Ex2_Consoantes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex1_OrdemInversa">
+  <component name="RunManager" selected="Application.Ex2_Consoantes">
     <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.arrays.Ex1_OrdemInversa" />
       <module name="Desafios_de_loops_e_Arrays" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.loops.Ex3_MaiorEMedia" />
+    <configuration name="Ex2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.arrays.Ex2_Consoantes" />
       <module name="Desafios_de_loops_e_Arrays" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.loops.*" />
+          <option name="PATTERN" value="br.com.dio.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.Ex6_Fatorial" />
         <item itemvalue="Application.Ex5_Tabuada" />
         <item itemvalue="Application.Ex4_ParEImpar" />
-        <item itemvalue="Application.Ex3_MaiorEMedia" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658340917438</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Solução do desafio 1 de arrays">
+      <created>1658341942882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658341942882</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +197,7 @@
     <MESSAGE value="Solução do desafio 4 de loop" />
     <MESSAGE value="Solução do desafio 5 de loop" />
     <MESSAGE value="Solução do desafio 6 de loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 6 de loop" />
+    <MESSAGE value="Solução do desafio 1 de arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 1 de arrays" />
   </component>
 </project>
