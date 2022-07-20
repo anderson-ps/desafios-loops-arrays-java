@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 2 de loop">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/loops/Ex3_MaiorEMedia.java" afterDir="false" />
+    <list default="true" id="8ed6641a-a66e-4eae-af37-3c437bfe1d0e" name="Changes" comment="Solução do desafio 3 de loop">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/loops/Ex4_ParEImpar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex3_MaiorEMedia">
+  <component name="RunManager" selected="Application.Ex4_ParEImpar">
     <configuration name="Ex2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.loops.Ex2_Nota" />
       <module name="Desafios_de_loops_e_Arrays" />
@@ -63,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.loops.Ex4_ParEImpar" />
+      <module name="Desafios_de_loops_e_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="br.com.dio.loops.Ex1_NomeEIdade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.dio.loops.Ex1_NomeEIdade" />
       <module name="Desafios_de_loops_e_Arrays" />
@@ -78,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_ParEImpar" />
         <item itemvalue="Application.Ex3_MaiorEMedia" />
         <item itemvalue="Application.Ex2_Nota" />
         <item itemvalue="Application.br.com.dio.loops.Ex1_NomeEIdade" />
@@ -107,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658334104816</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Solução do desafio 3 de loop">
+      <created>1658335300113</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658335300113</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solução do desafio 1 de loop" />
     <MESSAGE value="Solução do desafio 2 de loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 2 de loop" />
+    <MESSAGE value="Solução do desafio 3 de loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solução do desafio 3 de loop" />
   </component>
 </project>
